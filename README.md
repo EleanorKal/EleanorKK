@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EleanorKal
-- 👀 I’m interested in front end development - creating beautiful themes - ecommerce sectors
-- 🌱 I’m currently learning Javascript, CSS and some Kotlin for android dev
-- 💞️ I’m looking to collaborate on ecommerce front end dev projects 
-- 📫 How to reach me at eleanorATblarnya.com
+- 👀 I’m interested in blockchain projects
+- 🌱 Skillset - Solidity, Remix, Swift, Javascript, CSS and some Kotlin 
+- 💞️ I’m looking to collaborate on DeFi / Smart Contract projects 
+- 📫 How to DM me on Twitter - EleanorKal@blarnyastudio
 
 <!---
 EleanorKal/EleanorKal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
