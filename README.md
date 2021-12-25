@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eleanor
+- 👋 Hi, 
 - 👀 I’m interested in eCommerce full stack projects
 - 🌱 Skillset - React, C#, Javascript, CSS and Rest API
 - 💞️ I’m looking to collaborate on eCommerce webshop projects 
